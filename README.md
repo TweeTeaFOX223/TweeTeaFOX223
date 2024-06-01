@@ -1,5 +1,22 @@
-## 🦊ツイーティ・ザ・フォックスのプロフにようこそ🦊
+## 🐦️ツイーティ・ザ・フォックスのGitHubにようこそ🦊
 <br>
+
+🍵公開しているコードやアプリの一覧  
+https://gist.github.com/TweeTeaFOX223/e3192b7b13cff213e3e52de5cea63899  
+<br>
+🍵X垢：ちょっとした情報、短いメモや備忘録  
+https://x.com/TweeTea277  
+🍵ツイログ：X垢が無くても閲覧できます  
+https://twilog.togetter.com/TweeTea277  
+<br>
+🍵Zennのスクラップ：主にエラー対処法、長いメモや備忘録  
+https://zenn.dev/tweeteafox300?tab=scraps   
+🍵Zennの技術記事：ネタ無いので更新頻度低、とにかく長いやつ  
+https://zenn.dev/tweeteafox300  
+<br>
+🍵ツイーティ・ザ・フォックスの連絡先  
+DiscordのID「tweetea_the_fox」、又は上記X垢のDMにお願いします
+
 
 <!--
 **TweeTeaFOX223/TweeTeaFOX223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
