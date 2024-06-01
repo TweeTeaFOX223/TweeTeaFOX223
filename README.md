@@ -6,7 +6,7 @@ https://gist.github.com/TweeTeaFOX223/e3192b7b13cff213e3e52de5cea63899
 <br>
 🍵X垢：ちょっとした情報、短いメモや備忘録  
 https://x.com/TweeTea277  
-🍵ツイログ：X垢が無くても閲覧できます  
+🍵ツイログ：X垢が無くても閲覧できます＋検索機能あり  
 https://twilog.togetter.com/TweeTea277  
 <br>
 🍵Zennのスクラップ：主にエラー対処法、長いメモや備忘録  
