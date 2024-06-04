@@ -11,7 +11,7 @@ https://twilog.togetter.com/TweeTea277
 <br>  
 🍵Zennのスクラップ：主にエラー対処法、長いメモや備忘録  
 https://zenn.dev/tweeteafox300?tab=scraps   
-🍵Qiitaの技術記事：「～をする方法」のような具体的なハウツー  
+🍵Qiitaの技術記事：「～をする方法」のような具体的なハウツー(予定)    
 https://qiita.com/tweeteafox300  
 🍵Zennの技術記事：ライブラリの紹介、新規性のある技術情報(予定)  
 https://zenn.dev/tweeteafox300  
