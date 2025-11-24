@@ -2,7 +2,7 @@
 <br>
 
 **🍵ホームページ：自己紹介や興味のある技術リストなど色々**   
-**https://fox-homepage-mk1.vercel.app/**
+**https://home.t2fox.workers.dev/**
 
 <br>  
 
