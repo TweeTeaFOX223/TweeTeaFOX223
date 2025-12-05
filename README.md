@@ -22,7 +22,7 @@ https://zenn.dev/tweeteafox300
 DiscordのID「tweetea_the_fox」のDM、又は上記X垢のDMにお願いします
 
 <br>
-🍵「各リポジトリ(Fork除く)の主要言語」の割合・「全コミットの言語内容」の割合  
+🍵「各リポジトリ(Fork除く)の主要言語」の割合・「全コミット(Fork対象も含む)の言語内容」の割合  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TweeTeaFOX223&theme=merko)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TweeTeaFOX223&theme=merko)   
 
