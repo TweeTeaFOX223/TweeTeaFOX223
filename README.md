@@ -7,9 +7,10 @@
 <br>  
 
 🍵X垢：ちょっとした情報、短いメモや備忘録  
-https://x.com/TweeTea277  
+https://x.com/TweeTeaFOX223
+  
 🍵Twilog：X垢が無くても閲覧可能＋自分で検索する用  
-https://twilog.togetter.com/TweeTea277  
+https://twilog.togetter.com/TweeTeaFOX223  
 <br>  
 🍵Zennのスクラップ：エラー対処の長いメモや備忘録  
 https://zenn.dev/tweeteafox300?tab=scraps   
