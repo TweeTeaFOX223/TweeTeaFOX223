@@ -5,7 +5,7 @@
 **https://home.t2fox.workers.dev/**  
 
 <a href="https://home.t2fox.workers.dev/">
-<img src="https://raw.githubusercontent.com/TweeTeaFOX223/TweeTeaFOX223/refs/heads/main/OGP2.png" alt="T2フォックスのHP" width="480">
+<img src="https://raw.githubusercontent.com/TweeTeaFOX223/TweeTeaFOX223/refs/heads/main/OGP2.png" alt="T2フォックスのHP" width="720">
 </a>  
 
 <hr/>
